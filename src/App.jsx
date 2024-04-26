@@ -50,11 +50,11 @@ function App() {
             To live a full life,you have to fill your stomach first Quality food
             is the most important thing in our life.
           </p>
-          <div className="pt-2 flex gap-8">
-            <button className="bg-[#FF8E28] px-14 rounded-md py-4 text-white/80 text-lg font-semibold">
+          <div className="pt-4 flex gap-8">
+            <button className="bg-[#FF8E28] h-[58px] w-[300px] flex items-center justify-center rounded-md py-4 text-white/80 text-lg font-semibold">
               Book a table
             </button>
-            <button className="bg-[#00A850] px-14 rounded-md py-4 text-white/80 text-lg font-semibold">
+            <button className="bg-[#00A850] h-[58px] w-[300px] flex items-center justify-center rounded-md py-4 text-white/80 text-lg font-semibold">
              See our menu
             </button>
           </div>
